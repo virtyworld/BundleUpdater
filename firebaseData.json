@@ -1,0 +1,35 @@
+{
+	"authTable": {
+		"lastAuth": {
+			"wKRR4W6RhdhnvTg149dbVJbiv1K2": {
+				"lastDate": "2023-05-17 18:02:07"
+			}
+		}
+	},
+	"devices": {
+		"e43f0367a32b922fdf2892399e0dbe94fd98a1a6": {
+			"e43f0367a32b922fdf2892399e0dbe94fd98a1a6": "123123123312313"
+		}
+	},
+	"materials": {
+		"material1": "{\"materialStyle\":\"Default\",\"imagesList\":[\"material1-001\",\"material1-002\",\"material1-003\",\"material1-004\",\"material1-005\",\"material1-006\",\"material1-007\",\"material1-008\",\"material1-009\",\"material1-010\",\"material1-011\",\"material1-012\",\"material1-013\",\"material1-014\",\"material1-015\",\"material1-016\",\"material1-017\"],\"materialList\":[\"material1\"]}",
+		"material2": "{\"materialStyle\":\"Default\",\"imagesList\":[ \"material2 05\",\"material2 04\",\"material2 03\",\"material2 02\",\"material2 01\"   ], \"materialList\":[\"material2\"] }",
+		"material3": "{\"materialStyle\":\"Default\",\"imagesList\":[\"material3 780\",\"material3 781\",\"material3 782\",\"material3 783\",\"material3 784\",\"material3 785\",\"material3 786\",\"material3 787\",\"material3 788\",\"material3 789\",\"material3 790\",\"material3 791\"],\"materialList\":[\"material3\"]}"
+	},
+	"remoteConfigs": {
+		"ZYyoO9cePkfcH4pCRGx5R1sP3Qz1": {
+			"config": {
+				"loadBundles": "{\"bundles\":[{\"bundleName\":\"organizationMebel\",\"bundleUrl\":\"YOUR link TO DOWNLOAD BUNDLE\",\"hashFileName\":\"organizationMebelhash\",\"hashFileUrl\":\"YOUR link TO DOWNLOAD BUNDLE\"}]}",
+				"loadInScene": "{\"catalogs\":[{\"FactoryId\":0,\"ModelName\":\"furnitureName\",\"PathToModelSprite\":\"3553\",\"list\":[{\"SpritePath\":\"4566-\",\"Width\":0.33,\"Length\":1.03,\"ModelName\":\"rwwewerwe\",\"ModelPath\":\"567567567\",\"Id\":0},{\"SpritePath\":\"567567567\",\"Width\":0.33,\"Length\":1.03,\"ModelName\":\"sefsfefsf\",\"ModelPath\":\"346346346\",\"Id\":1},{\"SpritePath\":\"346346-\",\"Width\":0.63,\"Length\":1.04,\"ModelName\":\"346364634\",\"ModelPath\":\"346346esse\",\"Id\":2},{\"SpritePath\":\"1_-\",\"Width\":0.7,\"Length\":1.03,\"ModelName\":\"547sedfsf\",\"ModelPath\":\"346sfsef\",\"Id\":3},{\"SpritePath\":\"2_-\",\"Width\":1.4,\"Length\":1.052,\"ModelName\":\"346346sefs\",\"ModelPath\":\"346346sfdfs\",\"Id\":4},{\"SpritePath\":\"3_-\",\"Width\":1.93,\"Length\":1.05,\"ModelName\":\"64sdfs\",\"ModelPath\":\"456hfgdrg\",\"Id\":5},{\"SpritePath\":\"drgdrg7576576-\",\"Width\":1.85,\"Length\":1.78,\"ModelName\":\"sfsfsefsefsefsef\",\"ModelPath\":\"3453453455sf\",\"Id\":6},{\"SpritePath\":\"poluug55awdawdawd-\",\"Width\":1.85,\"Length\":1.78,\"ModelName\":\"awdawdawd\",\"ModelPath\":\"3453453453454354\",\"Id\":7},{\"SpritePath\":\"435435435455-\",\"Width\":1.02,\"Length\":1.84,\"ModelName\":\"adawdadad\",\"ModelPath\":\"awdafdsfsdfs\",\"Id\":8},{\"SpritePath\":\"sdfsdfsfsdf\",\"Width\":1.02,\"Length\":1.84,\"ModelName\":\"aqsadaw\",\"ModelPath\":\"awddawdaw\",\"Id\":9},{\"SpritePath\":\"2noyawdawdaw-\",\"Width\":1.04,\"Length\":1.04,\"ModelName\":\"awdfrgfgrd\",\"ModelPath\":\"awdgddgr\",\"Id\":10},{\"SpritePath\":\"drgdgdrgdr\",\"Width\":1.04,\"Length\":1.04,\"ModelName\":\"drgdrgdr\",\"ModelPath\":\"drgdrgdrgf\",\"Id\":11},{\"SpritePath\":\"fthfthfthfh\",\"Width\":0.7,\"Length\":1.85,\"ModelName\":\"sefseff\",\"ModelPath\":\"sfsefgddg\",\"Id\":12},{\"SpritePath\":\"34sffse\",\"Width\":1.65,\"Length\":1.17,\"ModelName\":\"rtsefsef\",\"ModelPath\":\"sefgfgdf\",\"Id\":13},{\"SpritePath\":\"dfgdhhhh\",\"Width\":1.4,\"Length\":1.03,\"ModelName\":\"sefsfdfsfdds\",\"ModelPath\":\"hfthfhfhth\",\"Id\":14},{\"SpritePath\":\"vngnfgjhfh\",\"Width\":1.32,\"Length\":1.07,\"ModelName\":\"nhghnghn\",\"ModelPath\":\"sefsfsef\",\"Id\":15},{\"SpritePath\":\"ghjghjgjhj\",\"Width\":1.32,\"Length\":1.07,\"ModelName\":\"gjfhffth\",\"ModelPath\":\"fthfthfthft\",\"Id\":16}]},{\"FactoryId\":1,\"ModelName\":\"jghjg\",\"PathToModelSprite\":\"fthfthfth\",\"list\":[{\"SpritePath\":\"1uglovaya_-\",\"Width\":1.32,\"Length\":1.07,\"ModelName\":\"sefsefsefsef\",\"ModelPath\":\"hfghfghfhfh\",\"Id\":1}]}]}",
+				"menuList": "{\"menuList\":[{\"buttonName\":\"asd77\",\"menuList\":[]},{\"buttonName\":\"4563dr\",\"menuList\":[{\"buttonName\":\"bimtText\",\"menuList\":[{\"buttonName\":\"Gawdermes\",\"menuList\":[{\"buttonName\":\"Gawdermes1\",\"menuList\":[]}]},{\"buttonName\":\"La345435mborghini\",\"menuList\":[]},{\"buttonName\":\"567Omega\",\"menuList\":[]},{\"buttonName\":\"material1\",\"menuList\":[]},{\"buttonName\":\"material2\",\"menuList\":[]},{\"buttonName\":\"568G856alaxy\",\"menuList\":[]}]},{\"buttonName\":\"dgr777\",\"menuList\":[{\"buttonName\":\"material3\",\"menuList\":[]}]}]},{\"buttonName\":\"65jj\",\"menuList\":[{\"buttonName\":\"jtrfdr\",\"menuList\":[]},{\"buttonName\":\"f6u\",\"menuList\":[]},{\"buttonName\":\"456456g\",\"menuList\":[]},{\"buttonName\":\"456654y5\",\"menuList\":[]},{\"buttonName\":\"fds66\",\"menuList\":[]}]}]}"
+			}
+		}
+	},
+	"users": {
+		"123123123312313": {
+			"licenceKey": "8VSPTbcu019U7epiEyZFtJFCqiDVloI78qvoNxcIxk11Y1kQ5jSSCE||1BSdBSQdGxMrhv",
+			"licenseBefore": "19.05.2023 15:22:56",
+			"machineId": "e43f0367a32b922fdf2892399e0dbe94fd98a1a6"
+		}
+	}
+}
